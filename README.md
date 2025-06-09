@@ -62,11 +62,6 @@ Each user is assigned a role, and access is granted accordingly.
 - Develop predictive models using location, demographics, and prevalence.
 - Publish anonymized dataset for open research purposes.
 
-## 🧑‍💻 Author
-
-**Adham Ashraf**  
-DSAI 202 - 202200953
-
 ## 📜 License
 
 This project is for academic use. Data was modified for privacy and research integrity. Please refer to the dataset's original license for any usage beyond this scope.
